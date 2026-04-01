@@ -119,6 +119,7 @@ I build scalable, high-performance web and mobile applications with a focus on c
 
 * 💼 LinkedIn: https://www.linkedin.com/in/lakshay-saini-59542414b/
 * 📧 Email: [l.saini2501@gmail.com](mailto:l.saini2501@gmail.com)
+* Portfolio: https://lakshay-saini.vercel.app/
 
 ---
 
